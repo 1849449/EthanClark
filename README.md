@@ -21,7 +21,6 @@
 </p> 
    <h1>Welcome to my website!</h1>
 
-     <p align="center">
   <br><br>
    <img src="images/liverpool.jpg" height="255">
        
