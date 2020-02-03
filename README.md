@@ -1,22 +1,12 @@
 
 <!DOCTYPE html>
 <html>
-<body>
-</body>
 </html>
 </h1>Hello!</h1>
 <!doctype html>
 <html lang="en">
  <head>
      <html>
- <head>
-<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Tangerine">
-  <style>
-    body {font-family: 'Tangerine', serif;font-size: 30px;}
-  </style>
-</head>
-<body>
-</body>
 </html>
 <meta charset="utf-8">
  <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
