@@ -3,10 +3,8 @@
 </body>
 </html>
 <html lang="en">
-</html>
  <meta charset="utf-8">
   <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
- <title>Home</title>
 
 </style>
 </head>
