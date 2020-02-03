@@ -7,19 +7,9 @@
 </h1>Hello!</h1>
 <!doctype html>
 <html lang="en">
-  <head>
-      <html>
-  <head>
- <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Tangerine">
-   <style>
-     body {font-family: 'Tangerine', serif;font-size: 30px;}
-   </style>
- </head>
- <body>
- </body>
 </html>
  <meta charset="utf-8">
-  <h1 style="background-color:DodgerBlue;"><h1>Ethan Clark</h1>
+  <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
  <title>Home</title>
  </head>
  <body>
@@ -48,18 +38,10 @@ li a:hover {background-color: #555;}
   
 </p> 
    <h1>Welcome to my website!</h1>
- <br>
-   <a target="_blank" href="https://www.instagram.com/?hl=en">
-     
-   </a>
-   <h1>↑ This is a website I like to use</h1>
-   
-   <p align="center">
-  <br><br>
-   <img src="images/stanforduniversity.png" height="255">
+
      <p align="center">
   <br><br>
-   <img src="images/tennischampionship.jpg" height="255">
+   <img src="images/liverpool.jpg" height="255">
        
  </body>
     
