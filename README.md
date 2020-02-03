@@ -17,12 +17,7 @@
  <li><a href="aboutme.html">About Me</a></li>
 </ul>
 </body>
-</html>
- <p align="center"> 
-    <h1>Home Page</h1>
-<p align="center">
-  <br><br>
-  
+ 
 </p> 
    <h1>Welcome to my website!</h1>
 
@@ -36,10 +31,4 @@
 <!DOCTYPE html>
 <html>
 <body style="background-color:lightgray;">
-</body>
-</html>
-    <!DOCTYPE html>
-<html>
-<body style="background-image:url('Background.jpg');">
-</body>
-</html>
+
