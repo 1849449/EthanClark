@@ -1,26 +1,13 @@
 
-<!DOCTYPE html>
-<html>
 <body>
 </body>
 </html>
-</h1>Hello!</h1>
-<!doctype html>
 <html lang="en">
 </html>
  <meta charset="utf-8">
   <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
  <title>Home</title>
- </head>
- <body>
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;}
-li {float: left;}
-li a {display: block;color: pink;text-align: center;padding: 14px 16px;text-decoration: none;}
-li a:hover {background-color: #555;}
+
 </style>
 </head>
 <body>
