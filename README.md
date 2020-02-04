@@ -1,5 +1,5 @@
+<!DOCTYPE html>
 <html>
-</html>
 Welcome to my website!
 <html lang="en">
 <meta charset="utf-8">
@@ -26,3 +26,4 @@ li a:hover {background-color: #111;}
   <h1>Welcome to my website!</h1>
 <br>
 <body style="background-color:lightgray;">
+</html>
