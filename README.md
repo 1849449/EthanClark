@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-Welcome to my website!
 <html lang="en">
 <meta charset="utf-8">
  <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
 <title>Home</title>
+  Welcome to my website!
 <body>
 <style>
 ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;}
@@ -23,7 +23,6 @@ li a:hover {background-color: #111;}
    <h1>Home Page</h1>
  This is my website where you will be able to learn more about me and see my work.
 </p>
-  <h1>Welcome to my website!</h1>
 <br>
 <body style="background-color:lightgray;">
 </html>
