@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<html lang="en">
-<meta charset="utf-8">
- <h1 style="background-color:Blue;"><h1>Ethan Clark</h1>
-<title>Home</title>
 <body>
 <style>
 ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;}
