@@ -28,7 +28,6 @@ li a:hover {background-color: #111;}
 <li><a class="active" href="index.html">Home</a></li>
 <li><a href="portfolio.html">Portfolio</a></li>
 <li><a href="aboutme.html">About Me</a></li>
-<li><a href="contact.html">Contact</a></li>
 </ul>
 </body>
 </html>
