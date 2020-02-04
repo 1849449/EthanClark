@@ -1,8 +1,6 @@
-
-<!DOCTYPE html>
 <html>
 </html>
-</h1>Welcome to my website!!</h1>
+Welcome to my website!
 <!doctype html>
 <html lang="en">
  <head>
@@ -13,7 +11,6 @@
 <title>Home</title>
 </head>
 <body>
-<!DOCTYPE html>
 <html>
 <head>
 <style>
