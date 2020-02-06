@@ -19,7 +19,7 @@
 </body>
 </html>
 <meta charset="utf-8">
- <h1 style="background-color:DodgerBlue;"><h1>Victor Nguyen</h1>
+ <h1 style="background-color:DodgerBlue;"><h1>Ethan Clark</h1>
 <title>Home</title>
 </head>
 <body>
@@ -36,9 +36,8 @@ li a:hover {background-color: #111;}
 <body>
 <ul>
 <li><a class="active" href="index.html">Home</a></li>
-<li><a href="portfolio.html">Portfolio</a></li>
-<li><a href="aboutme.html">About Me</a></li>
-<li><a href="contact.html">Contact</a></li>
+<li><a href="Portfolio.html">Portfolio</a></li>
+<li><a href="Aboutme.html">About Me</a></li>
 </ul>
 </body>
 </html>
@@ -46,14 +45,11 @@ li a:hover {background-color: #111;}
    <h1>Home Page</h1>
 <p align="center">
  <br><br>
- <img src="images/frenchpalace.jpg">
+ <img src="images/liverpool.jpg">
 </p>
   <h1>Welcome to my website!! You can learn more about me through this website!!!</h1>
 <br>
-  <a target="_blank" href="https://www.instagram.com/?hl=en">
-    <img src="images/instagram.jpeg" height="350">
-  </a>
-  <h1>↑ This is a website I like to use</h1>
+
   <p align="center">
  <br><br>
   <img src="images/stanforduniversity.png" height="255">
